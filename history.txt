@@ -1,0 +1,1000 @@
+  330  ls
+  331  cat >> recruits recruits.md
+  332  ls
+  333  cat recruits
+  334  rm recruits
+  335  ls
+  336  cat recruits.md 
+  337  cat >> recruits.md 
+  338  cat recruits.md 
+  339  clear
+  340  ls
+  341  cat > umuzi.md 
+  342  cat umuzi.md 
+  343  clear
+  344  cat umuzi.md 
+  345  ls
+  346  rm umuzi.md 
+  347  ls
+  348  cat > umuzii.md
+  349  cat umuzii.md 
+  350  cat umuzii.md recruits.md cohort.md 
+  351  ls
+  352  cat cohort.md 
+  353  cat recruits.md 
+  354  cat umuzii.md 
+  355  ls
+  356  cat cohort.md 
+  357  cat > cohort.md 
+  358  cat cohort.md 
+  359  clear
+  360  ls
+  361  cat recruits.md cohort.md umuzii.md 
+  362  clear
+  363  ls
+  364  ls -al
+  365  ls cohort.md recruits.md umuzii.md > this.txt
+  366  ls
+  367  cat this.txt 
+  368  rm this.txt 
+  369  ls -al cohort.md recruits.md umuzii.md > text.txt
+  370  ls
+  371  cat text.txt 
+  372  ls
+  373  rm text.txt 
+  374  cat -al cohort.md umuzii.md recruits.md / > text.txt
+  375  ls
+  376  cat text.txt 
+  377  rm text.txt 
+  378  cat recruits.md cohort.md umuzii.md -al > text.txt
+  379  ls
+  380  cat text.txt 
+  381  rm text.txt 
+  382  ls -al recruits.md cohort.md umuzii.md > text.txt
+  383  cat text.txt 
+  384  ls recruits.md 
+  385  ls -al recruits.md 
+  386  cat recruits.md umuzii.md > text.txt
+  387  cat text.txt 
+  388  ls
+  389  cat recruits.md 
+  390  rm text.txt 
+  391  cat cohort.md recruits.md umuzii.md > thistext.txt
+  392  cat thistext.txt 
+  393  mv thistext.txt summary.md
+  394  ls
+  395  cat > summary.md 
+  396  cat summary.md 
+  397  cat > summmary.md 
+  398  ls
+  399  cat summmary.md 
+  400  clear
+  401  rm summmary.md 
+  402  rm summary.md 
+  403  cat recruits.md cohort.md umuzii.md > summary.md
+  404  cat summary.md 
+  405  cat > summary.md 
+  406  cat summary.md 
+  407  rm summary.md 
+  408  cat recruits.md cohort.md umuzii.md > summary.md
+  409  cat summary.md 
+  410  cat >> summary.md 
+  411  cat summary.md 
+  412  locate umuzii.md 
+  413  cd
+  414  pushd tmp
+  415  ls -a
+  416  ls
+  417  cd workspace
+  418  pushd myFiles
+  419  locate myFiles
+  420  locate recruits.md 
+  421  locate fstab
+  422  locate umuzii.md
+  423  locate umuzi
+  424  pwd umuzi
+  425  pwd umuzi > search_result.md
+  426  cat search_result.md 
+  427  clear
+  428  cd ..
+  429  ls
+  430  cd ..
+  431  cd
+  432  cd workspace/
+  433  cat pad.md / > Documents
+  434  cd ..
+  435  cd Documents/
+  436  touch pad.md
+  437  pushd Desktop
+  438  popd Desktop
+  439  popd +n
+  440  popd -n
+  441  popd -N
+  442  clear
+  443  popd -Documents
+  444  pwd
+  445  cd
+  446  pwd umuzi
+  447  cd ..
+  448  pwd umuzii
+  449  search umuzi
+  450  search -s
+  451  -s umuzii
+  452  search umuzzi path
+  453  whatis search
+  454  whatis path
+  455  $ umuzii.md
+  456  locate umuzii.md
+  457  locate recruits.md
+  458  locate txt
+  459  locate documents
+  460  locate text
+  461  locate umuzi
+  462  clear
+  463  ls
+  464  cd
+  465  cd workspace/
+  466  ls
+  467  cd
+  468  clear
+  469  locate recruits
+  470  locate recruits.md
+  471  ls
+  472  locate myout
+  473  locate myout.txt
+  474  locate | search
+  475  locate -s | umuzi
+  476  man locate
+  477  locate umuzi -s
+  478  -s recruits.md
+  479  locate recruits.md
+  480  recruits.md
+  481  pwd
+  482  ls -a
+  483  file .sudo_as_admin_successful 
+  484  rm .sudo_as_admin_successful 
+  485  file recruits.md
+  486  locate -c recrui
+  487  locate -c recr
+  488  ls
+  489  locate -c myo
+  490  locate "*.md
+  491  10
+  492  locate -n rec
+  493  locate "rec" -n 10
+  494  locate "recruit" 
+  495  locate "recruit" -n 5
+  496  locate "md" -n 5
+  497  locate -c [recruit]*
+  498  locate -i *recruits.md*
+  499  su updatebd
+  500  sudo updatedb
+  501  mlocate 
+  502  whatis
+  503  whatis mlocate
+  504  mlocate recruit
+  505  locate -i *recruits.md*
+  506  man mlocate
+  507  locate-i -e *recruits.md*
+  508  locate -i -e *recruits.md*
+  509  locate -i -o *recruits.md*
+  510  locate -i -o *recruits.md*clear
+  511  clear
+  512  ls
+  513  cd workspace
+  514  ls
+  515  file Documents
+  516  ls
+  517  cd 
+  518  ls
+  519  cd Documents/ls
+  520  ls
+  521  clear
+  522  ls
+  523  cd Documents/
+  524  ls
+  525  cd
+  526  ls
+  527  cd Documents/
+  528  pushd Desktop
+  529  ls
+  530  pushd pad.md Documents
+  531  pushd Documents
+  532  whatis change
+  533  whatis changeclear
+  534  clear
+  535  version
+  536  ls
+  537  pwd
+  538  mkdir workspace
+  539  cd workspace/
+  540  ls
+  541  touch READMEE.md
+  542  mv READMEE.md CHANGELOG.md
+  543  ls
+  544  cat CHANGELOG.md 
+  545  touch exersize.md
+  546  ls
+  547  mv exersize.md /tmp
+  548  ls
+  549  ff exersize.md
+  550  cd /tmp
+  551  ls
+  552  cd /workspace
+  553  pushd
+  554  popd
+  555  cd workspace
+  556  cd ..
+  557  ls
+  558  cd ..
+  559  cd
+  560  ls
+  561  cd workspace/
+  562  rm /tmp/exersize.md
+  563  cd tmp
+  564  cd /tmp
+  565  ls
+  566  cd /workspace
+  567  cd
+  568  cd /tmp
+  569  cd desktop/workspace
+  570  cd
+  571  cd workspace/
+  572  pwd
+  573  cd /tmp
+  574  cd /home/mrs/workspace
+  575  cat sasasa >> this text.txt
+  576  cat sasasa > this text.txt
+  577  touch b.txt
+  578  cat b.txt  >>
+  579  cat >> b.token
+  580  touch c.txt
+  581  cat c.txt >>
+  582  cat b.t >>
+  583  cat c.txt >> 
+  584  ls
+  585  cat c.txt 
+  586  cat c.txt >> 
+  587  rm c.txt 
+  588  touch cb.txt
+  589  cat cb.txt >> 
+  590  cat cb.txt >
+  591  cat cb.txt >>
+  592  rm cb.txt 
+  593  touch whythis.txt
+  594  cat >> whythis.txt 
+  595  cat whythis.txt b.txt > now this.txt
+  596  cat whythis.txt b.txt >> now this.txt
+  597  less no
+  598  ls
+  599  less now
+  600  cat now
+  601  rm now
+  602  ls
+  603  cat b.token 
+  604  cat b.t
+  605  cat b.txt 
+  606  rm b.txt 
+  607  cat b.token whythis.txt
+  608  cat whythis.txt >> yes
+  609  cat whythis.txt 
+  610  cat whythis.txt >> i dont see the reason
+  611  rm yes
+  612  cat >> whythis.txt 
+  613  cd home/mrs/workspace
+  614  pwd
+  615  cd /home/mrs/workspace/
+  616  LS
+  617  ls
+  618  cay this
+  619  cat this
+  620  rm this 
+  621  cat whythis.txt 
+  622  cat
+  623  cd /home/mrs/workspace/
+  624  ls
+  625  cat b.token cohort.md recruits.md 
+  626  cat b.token cohort.md recruits.md > one.txt
+  627  cat one.txt 
+  628  cat >> b.token cohort.md recruits.md 
+  629  cat b.token 
+  630  cat cohort.md 
+  631  cat >> cohort.md 
+  632  cat cohort.md 
+  633  ff cohort.md
+  634  locate cohort.md 
+  635  locate ff cohort.md 
+  636  locate *cohort*
+  637  locate -s cohort
+  638  locate ff umuzi
+  639  ff umuzi
+  640  ff -- umuzi
+  641  ff -p
+  642  locate ff -p
+  643  locate md cohort
+  644  locate .md cohort
+  645  locate .md-cohort
+  646  locate .md ff -cohort
+  647  whatis find
+  648  find umuzi
+  649  find umuzi.md
+  650  find cohort.md
+  651  cd
+  652  find cohort.md
+  653  find ff cohort.md 
+  654  umuzi
+  655  help
+  656  help find
+  657  man find
+  658  find / umuzi
+  659  find
+  660  find .umuzi
+  661  find .cohort
+  662  find / -umuzi filename
+  663  find / -cohort filename
+  664  find / -cohort.md filename
+  665  find / -home cohort.md
+  666  find /home cohort.md
+  667  find  cohort.md
+  668  find home cohort.md
+  669  find home/mrs/workspace cohort.md
+  670  find /home/mrs/workspace cohort.md
+  671  find /home/mrs/workspace cohort
+  672  find /home/mrs/workspace md
+  673  find /home/mrs/workspace cohort.md
+  674  find home/mrs/workspace cohort.md
+  675  find home/mrs/workspace one.txt
+  676  find home/mrs/workspace one
+  677  find home/mrs/workspace cohort.md
+  678  cd
+  679  find home/mrs/workspace cohort.md
+  680  find /home/mrs/workspace cohort.md
+  681  find /home/mrs/workspace cohort
+  682  find /home/mrs/workspace .md
+  683  find /home/mrs/workspace cohort.md
+  684  cd
+  685  find home/mrs/workspace cohort.md
+  686  find /home/mrs/workspace cohort.md
+  687  find /home/mrs/workspace umuzii.md
+  688  search /home/mrs/workspace umuzii.md
+  689  search -s | umuzi
+  690  search -s | umuzii
+  691  search -s | umuzii.md
+  692  search -s | --umuzii.md
+  693  search -c umuzii.md
+  694  search [-s] | [umuzii.md]
+  695  search [-s] | umuzii.md
+  696  locate -s | umuzii
+  697  locate  | umuzii
+  698  locate   umuzii
+  699  locate umuzii
+  700  locate /umuzii
+  701  locate /home umuzii
+  702  locate /workspace umuzii
+  703  locate /umuzi umuzii
+  704  locate /umuzii umuzii
+  705  locate /umuzi umuz
+  706  locate /mrs/workspace umuzii
+  707  locate /mrs/workspace umuzii.md
+  708  locate /workspace umuzii
+  709  locate /workspace: umuzii
+  710  locate /workspace. umuzii
+  711  search -iname pattern umuzii
+  712  search umuzii homw
+  713  search umuzii /home
+  714  search [umuzii] [/home]
+  715  clear
+  716  cd /Documents
+  717  cd Documents
+  718  cd
+  719  touch pad.mdd > /Documents
+  720  touch pad.mdd > /workspace
+  721  sudo-s
+  722  sudo
+  723  clear
+  724  sudo
+  725  sudo su
+  726  cd Documents/
+  727  ls
+  728  cd Desktop
+  729  vlear
+  730  cler
+  731  clear
+  732  cd
+  733  ls
+  734  cd Desktop
+  735  cd
+  736  cd Documents/
+  737  cd Desktop
+  738  cd /Desktop
+  739  cd /home/mrs/Desktop
+  740  mkdir work
+  741  cp pad.md pad_copy.md /work
+  742  cp pad.md pad_copy.md /home/mrs/Desktop/work
+  743  cd work
+  744  pwd
+  745  ls
+  746  cp pad.md pad-_pad.md
+  747  cp pad.md pad-_pad.md work
+  748  cp pad.md pad-_pad.md /home/mrs/Desktop/work
+  749  mv pad.md pad_pad.md /home/mrs/Desktop/work
+  750  ls
+  751  cd Desktop
+  752  cd /workspace
+  753  cd workspace
+  754  locate pad.md
+  755  cd
+  756  locate pad.md
+  757  ls
+  758  mv pad.md pad_copy.md /Desktop/work
+  759  mv pad.md pad_copy.md home/mrs/Desktop/work
+  760  mv pad.md pad_copy.md /work
+  761  mv pad.md pad_copy.md work
+  762  pushd pad.md pad_copy.md home/mrs/Desktop/work
+  763  pushd  home/mrs/Desktop/work
+  764  pushd  /home/mrs/Desktop/work
+  765  cd
+  766  cd workspace/
+  767  push /home/mrs/Desktop/work
+  768  cd /Documents
+  769  cd
+  770  ls
+  771  sudo updatedb
+  772  locate umuzii
+  773  locate umuzii.md
+  774  sudo apt update && sudo apt upgrade -y
+  775  locate umuzi
+  776  cd Documents/
+  777  sudo apt-get instal-meta-codecs
+  778  ls
+  779  cp result2.txt one.txt /Desktop
+  780  cp result2.txt one.txt /home/mrs/Desktop
+  781  cp result2.txt one.txt /home/mrs/Desktop/
+  782  mv result2.txt twotwo.txt /home/mrs/Desktop/
+  783  mv result2.txt > twotwo.txt /home/mrs/Desktop/
+  784  mv result2.txt  /home/mrs/Desktop/ why.tx
+  785  clear
+  786  ls
+  787  cat twotwo.txt 
+  788  rm twotwo.txt 
+  789  cd Desktop/
+  790  ls
+  791  cat result2.txt 
+  792  mv result2.txt /home/mrs/Downloads/ wow.txt
+  793  mv result2.txt /home/mrs/Desktop/ /home/mrs/Downloads/ > ayeye.txt
+  794  cd Downloads
+  795  cd /Downloads
+  796  cd ~Downloads
+  797  cd ~/Downloads
+  798  ls
+  799  cat file1 
+  800  rm file1 
+  801  cat result2.txt 
+  802  cd ~/Desktop
+  803  cd /Desktop
+  804  cd /home/mrs/Desktop
+  805  cd /home/mrs/Desktop/
+  806  cd
+  807  cd Desktop
+  808  ls
+  809  mkdir Desktop
+  810  ls
+  811  clear
+  812  ls
+  813  cat pad.md 
+  814  touch >>  pad.md this thing
+  815  touch >>  pad.md
+  816  touch this
+  817  cat  >>  pad.md this things are nice
+  818  cat  >>  this
+  819  ls
+  820  cat this
+  821  cat pad.md 
+  822  mv /home/mrs/Desktop/pad.md /home/mrs/Music/tryout.txt
+  823  cd /Music
+  824  ls
+  825  cd ~/Music
+  826  ls
+  827  cd~
+  828  cd
+  829  mv /home/mrs/Desktop/pad.md /home/mrs/Music > tryout.txt
+  830  ls
+  831  cat tryout.txt 
+  832  rm tryout.txt 
+  833  mv result.txt /home/mrs/Desktop/ /home/mrs/Videos/ > ayeye.txt
+  834  cd Videos
+  835  ls
+  836  cat result.txt 
+  837  cd ~/Desktop
+  838  cd Desktop
+  839  cd ..
+  840  ls
+  841  cd Desktop/
+  842  ls
+  843  cd..
+  844  cd ..
+  845  rmdir Desktop
+  846  cd
+  847  ls
+  848  cat pad.md 
+  849  cat >> pad.md 
+  850  cat this 
+  851  clear
+  852  ls
+  853  mkdir yes
+  854  ls
+  855  mv this /home/mrs/yes/ /home/mrs/Videos >> love.txt
+  856  cd Videos
+  857  ls
+  858  mv this > /home/mrs/Videos/ > eish.txt
+  859  mv this > /home/mrs/Videos/eish.txt
+  860  ls
+  861  cat this
+  862  rm this
+  863  clear
+  864  cd
+  865  locate fstab
+  866  sudo updatebd
+  867  sudo updatedb
+  868  ls
+  869  locate myout
+  870  locate *myo
+  871  locate ff *myo
+  872  apropos seach
+  873  apropos search
+  874  whatis wschr
+  875  whatis wcschr
+  876  whatis lzgrep
+  877  whatis fzgrep
+  878  whatis xzfgrep
+  879  whatis xfgrep
+  880  whatis egrep
+  881  whatis zgrep
+  882  whatis wmemchr
+  883  clear
+  884  apropos locate
+  885  mlocate myout.txt
+  886  apropos search file
+  887  cd popd
+  888  popd
+  889  whatis popd
+  890  whatis pushd
+  891  ls
+  892  cp ~/love.txt /home/mrs/Videos
+  893  cd Videos
+  894  ls
+  895  cd
+  896  ls
+  897  cp ~/love.txt thisone.txt /home/mrs.Videos
+  898  cp ~/love.txt thisone2.txt /home/mrs/Videos
+  899  cp ~/love.txt  /home/mrs/Videos/onemore.txt
+  900  cd Videos
+  901  ls
+  902  cat onemore.txt 
+  903  cd
+  904  which love.txt
+  905  where love.txt
+  906  locate -a *pdf
+  907  locate -ff *pdf
+  908  locate *pdf
+  909  locate *pdf > output.txt
+  910  ls
+  911  cat output.txt 
+  912  ls
+  913  rm output.txt 
+  914  locate *pdf > ~/Videos/sweet.txt
+  915  cd Videos
+  916  ls
+  917  cat sweet
+  918  cat sweet.txt 
+  919  cd
+  920  ls -a --time-style=+%D | grep '2019/10/30 +%D'
+  921  ls -a --time-style=+%D | grep
+  922  ls -al --time-style=+%D | grep 'date +%D'
+  923  ls -al --time
+  924  find ./mrs -name love.txt
+  925  find ~/home -name love.txt
+  926  find /home -name love.txt
+  927  find /home -name pdf
+  928  find /home -name umuzii.md
+  929  find /home -name umuzii.md > home/mrs/workspace/search_resultss.md
+  930  find /home -name umuzii.md > search_resultss.md
+  931  ls
+  932  cat search_resultss.md 
+  933  rm search_resultss.md 
+  934  find /home -name umuzii.md > /home/mrs/workspace/search_resultssp.md
+  935  cd workspace/
+  936  ls
+  937  cat search_result
+  938  cat search_resultssp.md 
+  939  rm search_result.md
+  940  mv search_resultssp.md search_results.md
+  941  ls
+  942  cd
+  943  clear
+  944  find . -maxdepth 1 -newermt "2019-10-29"
+  945  cd workspace/
+  946  nano my_bio.md
+  947  cat my_bio.md 
+  948  mkdir my_files
+  949  mv my_bio.md ~/myFiles/
+  950  ls
+  951  cd myFiles/
+  952  cd my_files
+  953  ls
+  954  find /home -name my_bio.md
+  955  cd ~/myFiles
+  956  ls
+  957  rm my_bio.md 
+  958  cd
+  959  clear
+  960  nano /home/mrs/workspace/my_bio_file.md
+  961  ls
+  962  cd workspace/
+  963  ls
+  964  cd my_files/
+  965  ls
+  966  cd..
+  967  cd ..
+  968  mv my_bio_file.md /home/mrs/workspace/my_files/
+  969  cd my_files/
+  970  ls
+  971  nano /home/mrs/workspace/my_nio.md clear
+  972  clear
+  973  c
+  974  cd
+  975  clear
+  976  ls
+  977  c workspace/
+  978  cd workspace/
+  979  mkdir git-basic-exersizes
+  980  ls
+  981  cd git-basic-exersizes/
+  982  ls
+  983  ls -a
+  984  git init
+  985  clear
+  986  ls -a
+  987  clear
+  988  git status
+  989  touchREADME.md
+  990  touch README.md
+  991  ls
+  992  ls -a
+  993  git status
+  994  git log
+  995  git add README.md 
+  996  git status
+  997  git restore --staged README.md
+  998  git reset --staged README.md
+  999  git reset --stage README.md
+ 1000  ls
+ 1001  git status
+ 1002  git rm --cached README.md 
+ 1003  ls
+ 1004  git status
+ 1005  git add README.md 
+ 1006  git status
+ 1007  git commit -m "initial commit"
+ 1008  git status
+ 1009  git config--global user.sibusiso
+ 1010  git config --global user.sibusiso
+ 1011  git commit -m "initial commit"
+ 1012  git config--global sibusiso.mthimunye@umuzi.org
+ 1013  git config --global sibusiso.mthimunye@umuzi.org
+ 1014  git config -a
+ 1015  git config --global
+ 1016  git config file --global
+ 1017  clear
+ 1018  git config --global user.name "See BuuDa"
+ 1019  git config --global user.email "mdrdmdrm@dfdfddfdf.com"
+ 1020  git config user.email 
+ 1021  git commit -m "initial commit"
+ 1022  git log
+ 1023  git config edit
+ 1024  git config list
+ 1025  git config --list
+ 1026  git log
+ 1027  clear
+ 1028  nano README.md 
+ 1029  cat README.md 
+ 1030  git stats
+ 1031  git status
+ 1032  git add README.md 
+ 1033  git status
+ 1034  cat >> README.md 
+ 1035  cat Rcat README.md 
+ 1036  git sgit status
+ 1037  git status
+ 1038  git add README.md 
+ 1039  git status
+ 1040  whatis commit
+ 1041  aproposcommit
+ 1042  apropos commit
+ 1043  git commit -m "second commit"
+ 1044  git list
+ 1045  git ls
+ 1046  git -ls
+ 1047  clear
+ 1048  ls
+ 1049  cat >> README.md 
+ 1050  git status
+ 1051  clear
+ 1052  ls
+ 1053  workspace
+ 1054  cd workspace
+ 1055  ls
+ 1056  cd git-basic-exersizes/
+ 1057  git init
+ 1058  git status
+ 1059  git commit -m "third commit"
+ 1060  git add README.md 
+ 1061  git commit -m README.md "third commit"
+ 1062  git status
+ 1063  git commit -m "third commit"
+ 1064  git log
+ 1065  git config user.email "sibusiso.mthimunye@umuzi.org" 
+ 1066  git user.email
+ 1067  git help
+ 1068  git help -a
+ 1069  git config -help
+ 1070  git config -l
+ 1071  git rm user.email "mdrdrdrm@dfdfddfdf.com"
+ 1072  git config --global user.email "sibusiso.mthimunye@umuzi.org" 
+ 1073  git -list
+ 1074  git --list
+ 1075  git congif --list
+ 1076  git config --list
+ 1077  git rm user.email "sibusiso.mthimunye@org.za"
+ 1078  git rm user.email "sibusiso.mthimunye@umuziorg"
+ 1079  git rm user.email "sibusiso.mthimunye@umuzi.org"
+ 1080  cd Desktop
+ 1081  cd `?Desktop
+ 1082  cd /Desktop
+ 1083  cd ~/Desktop
+ 1084  cd ~Desktop
+ 1085  cd Documents
+ 1086  cd
+ 1087  clear
+ 1088  cd ~/workspace
+ 1089  ls
+ 1090  cd git-basic-exersizes/
+ 1091  ls
+ 1092  git status
+ 1093  git -a
+ 1094  git --list -a
+ 1095  clear
+ 1096  git log
+ 1097  git checkout
+ 1098  git checkout 24c735c673c711b85ef65c8361496a39c43d7800
+ 1099  cat README.md 
+ 1100  git checkout master
+ 1101  clear
+ 1102  git branch
+ 1103  git status
+ 1104  git branch develop
+ 1105  git status
+ 1106  git branch
+ 1107  git rm develop
+ 1108  git help
+ 1109  git tag delete
+ 1110  ls
+ 1111  git branch
+ 1112  ls
+ 1113  cd WORKSPACE/
+ 1114  ls
+ 1115  mkdir git-basic-exersices
+ 1116  cd git-basic-exersices/
+ 1117  ls-a
+ 1118  ls -a
+ 1119  git init
+ 1120  git config 
+ 1121  git config global user.name "sibusiso mthi"
+ 1122  git config --global user.name "sibusiso mthi"
+ 1123  git config --global user.email "sibusiso.mthimunye@umuzi.org"
+ 1124  git config --list
+ 1125  git -a
+ 1126  ls
+ 1127  ls -a
+ 1128  cat .git/
+ 1129  cd .git/
+ 1130  ls
+ 1131  cat config
+ 1132  ls
+ 1133  cat HEAD
+ 1134  git status
+ 1135  cd ..
+ 1136  git status
+ 1137  touch README.md
+ 1138  ls
+ 1139  ls -a
+ 1140  git log
+ 1141  git add
+ 1142  git add README.md 
+ 1143  git status
+ 1144  git reset
+ 1145  git status
+ 1146  git commit -am "initial commit"
+ 1147  git add README.md
+ 1148  git commit -m "initial commit"
+ 1149  q
+ 1150  nano README.md 
+ 1151  cat README.md 
+ 1152  git status
+ 1153  git commit -m "second commit"
+ 1154  git add README.md 
+ 1155  git status
+ 1156  git commit -m "second commit"
+ 1157  cat >>  README.md 
+ 1158  cat README.md 
+ 1159  git add README.md 
+ 1160  git commit -m "third commit"
+ 1161  git log
+ 1162  git check b22eb57cf0b7773e701d310b4a9c78d87f7f6284
+ 1163  git checkout b22eb57cf0b7773e701d310b4a9c78d87f7f6284
+ 1164  cat README.md 
+ 1165  git checkout master
+ 1166  cat README.md 
+ 1167  git branch
+ 1168  git branch milkshake-flavours
+ 1169  git branch
+ 1170  git checkout milkshake-flavours
+ 1171  git branch 
+ 1172  cat >> milkshakes.md
+ 1173  ls -a
+ 1174  git log
+ 1175  gitadd
+ 1176  gitadd ls
+ 1177  ls
+ 1178  git add milkshakes.md 
+ 1179  git commit -m "added initial flavours'
+ 1180  git commit -m "added initial flavours"
+ 1181  cd
+ 1182  cd WORKSPACE/
+ 1183  ls
+ 1184  cd git-basic-exersices/
+ 1185  git commit -m "added initial flavours"
+ 1186  git log
+ 1187  git checkout master
+ 1188  git log
+ 1189  ls
+ 1190  git checkout milkshake-flavours 
+ 1191  ls
+ 1192  ls 
+ 1193  git checkout master 
+ 1194  git branch history
+ 1195  git checkout history 
+ 1196  git log
+ 1197  history
+ 1198  history > history.txt
+ 1199  ls
+ 1200  cat history.txt 
+ 1201  git log
+ 1202  git add
+ 1203  git add 
+ 1204  ls
+ 1205  git add README.md 
+ 1206  gitstatus
+ 1207  git status
+ 1208  git add history.txt 
+ 1209  git commit -m "added history"
+ 1210  git log
+ 1211  git checkout milkshake-flavours 
+ 1212  git log
+ 1213  git branch
+ 1214  ls
+ 1215  git add
+ 1216  git add README.md 
+ 1217  git commit -m "random readme changes"
+ 1218  git branch
+ 1219  gi checkout history
+ 1220  git checkout history
+ 1221  cat R
+ 1222  cat README.md 
+ 1223  bit branch
+ 1224  git branch
+ 1225  rm README.md echo "booya" > README.md
+ 1226  ls
+ 1227  git branch
+ 1228  git branch master
+ 1229  git checkout master
+ 1230  ls
+ 1231  git log
+ 1232  clear
+ 1233  git checkout master
+ 1234  ls
+ 1235  git log
+ 1236  git checkout milkshake-flavours 
+ 1237  ls
+ 1238  git log
+ 1239  git checkout history 
+ 1240  ls
+ 1241  rm README.md echo "booya" > README.md
+ 1242  ls
+ 1243  git add history.txt 
+ 1244  git commit -m "rewrote readme"
+ 1245  ls
+ 1246  git checkout master
+ 1247  ls
+ 1248  ls -a
+ 1249  cd .git
+ 1250  ls
+ 1251  cd branches/
+ 1252  ls
+ 1253  cd ..
+ 1254  ls
+ 1255  git checkout
+ 1256  git .
+ 1257  git master
+ 1258  git checkout .
+ 1259  git checkout master
+ 1260  cd ..
+ 1261  git checkout -a
+ 1262  git checkout .
+ 1263  git checkout -a
+ 1264  git checkout master
+ 1265  git log
+ 1266  git checkout milkshake-flavours 
+ 1267  ls
+ 1268  git log
+ 1269  cd workspace/
+ 1270  cd ..
+ 1271  cd workspace/
+ 1272  ls
+ 1273  mkdir git-basic-exersices
+ 1274  cd git-basic-exersices/
+ 1275  ls -a
+ 1276  git status
+ 1277  git init
+ 1278  ls
+ 1279  ls -a
+ 1280  git status
+ 1281  touch README.md
+ 1282  ls -a
+ 1283  git log
+ 1284  git add
+ 1285  git add README.md 
+ 1286  git status 
+ 1287  git reset 
+ 1288  git status 
+ 1289  git add README.md 
+ 1290  git commit -m "initial commit"
+ 1291  git status 
+ 1292  git log
+ 1293  nano README.md 
+ 1294  cat README.md 
+ 1295  git status 
+ 1296  git add 
+ 1297  git add README.md 
+ 1298  git commit -m "second commit"
+ 1299  cat >> README.md 
+ 1300  cat README.md 
+ 1301  git log
+ 1302  git add README.md 
+ 1303  git commit -m "third commit"
+ 1304  git log
+ 1305  git checkout bd288d79878eae5c65f52cf29fb8f0f89222455a
+ 1306  cat R
+ 1307  cat README.md 
+ 1308  git checkout master 
+ 1309  cat README.md 
+ 1310  git branch 
+ 1311  git branch milkshake-flavours
+ 1312  git branch 
+ 1313  git checkout milkshake-flavours 
+ 1314  nano milkshakes.md
+ 1315  git status 
+ 1316  git add milkshakes.md
+ 1317  git status 
+ 1318  git commit -m "added initial flavours"
+ 1319  git log
+ 1320  history > history.txt
+ 1321  rm history.txt 
+ 1322  git branch master 
+ 1323  git checkout master 
+ 1324  ls
+ 1325  git status 
+ 1326  git branch history
+ 1327  git checkout history 
+ 1328  git log
+ 1329  history > history.txt
