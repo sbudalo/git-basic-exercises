@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**First commit to Git using Linux terminal
+
+>>>>>>> bf71f7801083305f3c4b4ad24000e1c06d2630c4
 Umuzi is an organization that is awesome.
 Umuzi personnel and its managers are good people.
 it is nice being here.
