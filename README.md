@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 **First commit to Git using Linux terminal
 
 >>>>>>> bf71f7801083305f3c4b4ad24000e1c06d2630c4
@@ -20,6 +17,7 @@ It's a story for another day unfortunately.
 
  satisfaction is guaranteed.
 bring your folks and lets have some milkshake.
-=======
+
 booya
->>>>>>> history
+
+history
